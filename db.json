@@ -1,0 +1,46 @@
+{
+  "patients": [
+    {
+      "name": "Zayra",
+      "lastName": "Velasco",
+      "birthday": "1987-01-27",
+      "height": 160,
+      "weight": 50,
+      "patientNotes": "note",
+      "parentName": "Maria",
+      "parentLastName": "Rosillo",
+      "phone": "",
+      "email": "",
+      "parentNotes": "",
+      "id": 1
+    },
+    {
+      "name": "Isabela",
+      "lastName": "Paloma",
+      "birthday": "2017-08-19",
+      "height": 60,
+      "weight": 40,
+      "patientNotes": "",
+      "parentName": "Zayra",
+      "parentLastName": "Velasco",
+      "phone": "",
+      "email": "",
+      "parentNotes": "",
+      "id": 2
+    },
+    {
+      "name": "Miranda",
+      "lastName": "Lateral",
+      "birthday": "1995-05-15",
+      "height": 150,
+      "weight": 50,
+      "patientNotes": "",
+      "parentName": "Kisoury",
+      "parentLastName": "Mihiyatu",
+      "phone": "",
+      "email": "",
+      "parentNotes": "",
+      "id": 3
+    }
+  ]
+}
