@@ -6,7 +6,7 @@
 </p>
 
 ## About this
-❤ Full stack project for patients registration.
+👩‍⚕️ Full stack project for patients registration.
 
 ## Demo
 ☞ not yet
